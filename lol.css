@@ -1,0 +1,23 @@
+.navbar{
+background-color: greenyellow;
+padding: 15;
+display: flex;
+justify-content: space-evenly;
+}
+
+
+
+body{
+margin: 0px;
+}
+
+.navbar a{
+    color: black;
+    font-size: x-large;
+    text-decoration: none;
+}
+
+.navbar a:hover{
+    color: blueviolet;
+
+}
